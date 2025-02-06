@@ -1,3 +1,2 @@
 ## Hi there 👋
-im lazy and wont type anything in here
-but im a cool godot gamedev 😎
+edit: dis website is different from description :(
