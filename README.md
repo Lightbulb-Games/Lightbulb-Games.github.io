@@ -1,2 +1,1 @@
-## Hi there 👋
-edit: dis website is different from description :(
+oh apparently the md appears directly on the website... weird
