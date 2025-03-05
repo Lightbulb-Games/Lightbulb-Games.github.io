@@ -8,3 +8,7 @@ body {
     color: #ffffff;
     font-family:'Orbitron'
 }
+
+img {
+  height:auto;
+}
