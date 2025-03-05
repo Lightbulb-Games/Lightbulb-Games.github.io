@@ -12,3 +12,16 @@ body {
 img {
   height:auto;
 }
+
+body {
+  margin:20;padding:20;
+}
+
+.thumbnail {
+  border-width: 1;
+  border-color: #ffffff;
+}
+
+.thumbcontainer {
+  width: 220px;
+}
