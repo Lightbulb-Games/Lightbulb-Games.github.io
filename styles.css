@@ -24,3 +24,14 @@ small {
 nav {
   margin:0
 }
+
+.playframe {
+  border-radius: 10px;
+  background-color: black;
+}
+
+.itchframe {
+  border-radius:20px;
+  border-width: 3px;
+  border-color:white;
+}
