@@ -1,12 +1,8 @@
-let iframe = document.getElementById("iframe");
+window.onload = function(){
+    var iframe = document.getElementById("iframe");
+    var fullbutton = document.getElementById("fullscreenButton");
 
-
-console.log("Script loaded (v0.1)")
-
-function game_fullscreen()
-    {
-        console.log("Fullscreen clicked");
-        iframe.requestFullscreen();
-    };
-
-document.getElementById("fullscreenButton").addEventListener("click", game_fullscreen);
+     fullbutton.onclick = function() {
+         iframe.requestFullscreen();
+     }
+ };
