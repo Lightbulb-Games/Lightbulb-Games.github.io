@@ -3,7 +3,7 @@ let toggleButton = document.getElementById("fullscreenButton");
 
 console.log("Script loaded (v0.1)")
 
-function fullscreen()
+function game_fullscreen()
     {
         console.log("Fullscreen clicked");
         iframe.requestFullscreen();
