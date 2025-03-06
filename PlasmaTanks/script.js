@@ -3,7 +3,8 @@ let toggleButton = document.getElementById("fullscreenButton");
 
 console.log("Script loaded")
 
-toggleButton.onclick = function()
-            {
-                console.log("Fullscreen clicked");
-            };
+function fullscreen()
+    {
+        console.log("Fullscreen clicked");
+        iframe.requestFullscreen();
+    };
