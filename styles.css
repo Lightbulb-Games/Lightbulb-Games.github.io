@@ -22,17 +22,23 @@ small {
 }
 
 nav {
-  border-radius: 0px 0px 10px 10px;
+  border-radius: 0px 0px 15px 15px;
   background-color: black;
 }
 
 .playframe {
-  border-radius: 10px;
-  background-color: cyan;
+  border-radius: 15px;
+  background-color: black;
 }
 
 .itchframe {
   border-radius:20px;
   border-width: 3px;
   border-color:white;
+  background-color: black;
+}
+
+.textlink{
+  color:lightblue;
+  font-weight: bold;
 }
