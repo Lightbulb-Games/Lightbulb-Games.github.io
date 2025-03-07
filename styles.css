@@ -1,44 +1,54 @@
 @font-face {
-    font-family: "Orbitron";
-    src: url('Orbitron-VariableFont_wght.ttf') format('truetype');
-  }
-
-body {
-    background-color: #000114;
-    color: #ffffff;
-    font-family:'Orbitron'
-}
-
-img {
-  height:auto;
+  font-family: "Orbitron";
+  src: url('Orbitron-VariableFont_wght.ttf') format('truetype');
 }
 
 body {
+  background-color: #000114;
+  color: #ffffff;
+  font-family:'Orbitron';
   margin:20;
 }
 
+
+img {
+height:auto;
+}
+
 small {
-  font-size:10px;
+font-size:10px;
 }
 
 nav {
-  border-radius: 0px 0px 15px 15px;
-  background-color: black;
+border-radius: 0px 0px 15px 15px;
+background-color: black;
 }
 
 .playframe {
-  border-radius: 15px;
-  background-color: black;
+border-radius: 15px;
+background-color: black;
 }
 
 .itchframe {
-  border-radius:20px;
-  border-width: 3px;
-  border-color:white;
-  background-color: black;
+border-radius:20px;
+border-width: 3px;
+border-color:white;
+background-color: black;
 }
 
 .textlink{
-  color:lightblue;
-  font-weight: bold;
+color:lightblue;
+font-weight: bold;
+}
+
+.landlordlink {
+color:#FCD300;
+}
+
+.landlordbutton {
+background-color:#FCD300;
+}
+
+.landlordbackground {
+background-color: #060500;
 }
