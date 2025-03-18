@@ -57,6 +57,7 @@ background-color: #060500;
 @media (max-width: 768px) {
   .card {
       margin-bottom: 20px;
+      background-color: black;
   }
 }
 
