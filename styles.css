@@ -52,3 +52,21 @@ background-color:#FCD300;
 .landlordbackground {
 background-color: #060500;
 }
+
+@media (max-width: 768px) {
+  .card {
+      margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  #homeBanner {
+      display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  hr {
+      display: none;
+  }
+}
