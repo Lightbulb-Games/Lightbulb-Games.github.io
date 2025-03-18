@@ -22,6 +22,7 @@ font-size:10px;
 nav {
 border-radius: 0px 0px 15px 15px;
 background-color: black;
+margin:20;
 }
 
 .playframe {
@@ -69,4 +70,14 @@ background-color: #060500;
   hr {
       display: none;
   }
+}
+
+.poem {
+  overflow: scroll;
+  scrollbar-color: black #000114;
+  scrollbar-width: thin;
+}
+
+.card-body {
+  background-color: black;
 }
